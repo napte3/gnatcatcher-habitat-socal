@@ -37,4 +37,5 @@ This project analyzes how coastal sage scrub habitat has changed across Southern
 2. Install dependencies: pip install -r requirements.txt
 3. Add raw data files to data/raw/
 4. Run gnatcatcher_notebook.ipynb
+
 Note: Raw data files are not included due to file size. GBIF data can be downloaded at gbif.org and NLCD rasters via Google Earth Engine.
