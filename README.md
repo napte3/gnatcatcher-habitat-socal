@@ -19,7 +19,7 @@ This project analyzes how coastal sage scrub habitat has changed across Southern
 - US Census county shapefiles
 
 ## Methods
-- Raster differencing
+- Land cover change analysis
 - Connected component labeling
 - Point sampling
 - Bootstrap resampling
